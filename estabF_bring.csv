@@ -1,0 +1,38 @@
+measure,transl,iclass,ps_a,ps_b,ps_Cb,ps_Ob,p_a,p_b,p_Cb,p_Ob,d_a,d_b,d_Cb,d_Ob
+b0654_hälsa_Health,Health,body,0.65,0.66,0.61,0.72,0.0004,0.0000,0.0019,0.0000,0.53,0.53,0.29,0.79
+b0832_missbelåtenhet_Discontent,Discontent,feeling,0.68,0.68,0.67,0.70,0.0000,0.0000,0.0000,0.0000,0.65,0.69,0.65,0.73
+b0843_andefattigdom_Dullness,Dullness,feeling,0.66,0.65,0.65,0.65,0.0001,0.0000,0.0000,0.0004,0.54,0.52,0.48,0.53
+b0820_sinnesart_Affections,Affections,feeling,0.65,0.63,0.60,0.65,0.0004,0.0000,0.0034,0.0004,0.49,0.47,0.40,0.51
+b0822_känslosamhet_Sensibility,Sensibility,feeling,0.64,0.68,0.72,0.62,0.0008,0.0000,0.0000,0.0073,0.33,0.41,0.56,0.20
+b0821_känsla_Feeling,Feeling,feeling,0.64,0.70,0.70,0.68,0.0009,0.0000,0.0000,0.0000,0.44,0.64,0.66,0.60
+b0608_nyck_Caprice,Caprice,feeling,0.62,0.62,0.60,0.62,0.0045,0.0000,0.0033,0.0061,0.35,0.36,0.38,0.30
+b0906_välvilja_Benevolence,Benevolence,feeling (positive),0.71,0.69,0.66,0.72,0.0000,0.0000,0.0000,0.0000,0.75,0.65,0.55,0.78
+b0829_behag_Pleasurableness,Pleasurableness,feeling (positive),0.69,0.70,0.65,0.74,0.0000,0.0000,0.0000,0.0000,0.63,0.68,0.50,0.90
+b0836_gladlynthet_Cheerfulness,Cheerfulness,feeling (positive),0.68,0.64,0.61,0.64,0.0000,0.0000,0.0021,0.0017,0.55,0.41,0.36,0.46
+b0902_ömhetsbetygelse_Endearment,Endearment,feeling (positive),0.68,0.71,0.69,0.71,0.0000,0.0000,0.0000,0.0000,0.51,0.60,0.67,0.61
+b0827_välbefinnande_Pleasure,Pleasure,feeling (positive),0.67,0.67,0.63,0.72,0.0000,0.0000,0.0004,0.0000,0.60,0.63,0.47,0.85
+b0602_villighet_Willingness,Willingness,feeling (positive),0.67,0.69,0.65,0.74,0.0001,0.0000,0.0000,0.0000,0.60,0.63,0.44,0.86
+b0897_kärlek_Love,Love,feeling (positive),0.67,0.65,0.63,0.66,0.0001,0.0000,0.0003,0.0002,0.44,0.45,0.41,0.49
+b0916_tacksamhet_Gratitude,Gratitude,feeling (positive),0.67,0.66,0.60,0.71,0.0001,0.0000,0.0034,0.0000,0.53,0.52,0.36,0.70
+b0838_glädjeyttring_Rejoicing,Rejoicing,feeling (positive),0.66,0.63,0.60,0.62,0.0001,0.0000,0.0042,0.0055,0.46,0.34,0.28,0.36
+b0600_vilja_Will,Will,feeling (positive),0.66,0.68,0.63,0.75,0.0002,0.0000,0.0003,0.0000,0.58,0.63,0.39,0.93
+b0288_attraktion_Attraction,Attraction,feeling (positive),0.62,0.65,0.64,0.64,0.0033,0.0000,0.0000,0.0013,0.12,0.24,0.40,0.14
+b0865_åtrå_Desire,Desire,feeling (positive),0.62,0.66,0.68,0.62,0.0040,0.0000,0.0000,0.0063,0.29,0.47,0.62,0.33
+b0298_förtäring_Food,Food,food,0.72,0.71,0.68,0.76,0.0000,0.0000,0.0000,0.0000,0.72,0.72,0.60,0.89
+b0689_uppfriskning_Refreshment,Refreshment,food,0.66,0.69,0.70,0.68,0.0002,0.0000,0.0000,0.0000,0.44,0.58,0.65,0.51
+b0390_smaksinne_Taste,Taste,food,0.63,0.67,0.64,0.70,0.0017,0.0000,0.0001,0.0000,0.40,0.51,0.48,0.54
+b0957_glupskhet_Gluttony,Gluttony,food,0.63,0.65,0.63,0.67,0.0019,0.0000,0.0003,0.0001,0.23,0.41,0.47,0.32
+b0396_sötma_Sweetness,Sweetness,food,0.62,0.67,0.60,0.75,0.0045,0.0000,0.0031,0.0000,0.44,0.56,0.36,0.76
+b0620_syfte_Intention,Intention,mental,0.61,0.65,0.61,0.70,0.0080,0.0000,0.0019,0.0000,0.44,0.51,0.34,0.74
+b0536_förnekelse_Negation,Negation,negation,0.64,0.65,0.63,0.67,0.0011,0.0000,0.0002,0.0001,0.51,0.56,0.51,0.61
+b0652_renlighet_Cleanness,Cleanness,property,0.69,0.71,0.69,0.71,0.0000,0.0000,0.0000,0.0000,0.71,0.67,0.68,0.68
+b0324_mjukhet_Softness,Softness,property,0.64,0.66,0.61,0.73,0.0009,0.0000,0.0019,0.0000,0.45,0.56,0.38,0.78
+b0354_svampighet_Pulpiness,Pulpiness,property,0.63,0.65,0.61,0.70,0.0027,0.0000,0.0018,0.0000,0.44,0.41,0.29,0.50
+b0627_metod_Method,Method,x,0.71,0.63,0.62,0.64,0.0000,0.0000,0.0006,0.0014,0.78,0.49,0.43,0.54
+b0296_inrymning_Reception,Reception,x,0.70,0.67,0.66,0.70,0.0000,0.0000,0.0000,0.0000,0.66,0.60,0.56,0.67
+b0184_lägebestämning_Location,Location,x,0.69,0.73,0.75,0.71,0.0000,0.0000,0.0000,0.0000,0.58,0.74,0.88,0.63
+b0332_glättning_Lubrication,Lubrication,x,0.67,0.65,0.61,0.71,0.0001,0.0000,0.0027,0.0000,0.60,0.45,0.34,0.55
+b0785_mottagande_Receiving,Receiving,x,0.67,0.68,0.69,0.68,0.0001,0.0000,0.0000,0.0000,0.63,0.68,0.75,0.65
+b0775_förvärv_Acquisition,Acquisition,x,0.65,0.66,0.68,0.67,0.0005,0.0000,0.0000,0.0001,0.56,0.60,0.69,0.61
+b0573_mångordighet_Diffuseness,Diffuseness,x,0.64,0.70,0.66,0.77,0.0013,0.0000,0.0000,0.0000,0.47,0.72,0.62,0.90
+b0691_arbetsplats_Workshop,Workshop,x,0.62,0.62,0.62,0.64,0.0039,0.0000,0.0010,0.0009,0.32,0.31,0.27,0.40
