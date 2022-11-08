@@ -12,13 +12,13 @@ Tables over text property measures which were clearly associated with gender dif
 
 `estabM_bring.csv`: Thesaurus-based measures higher for male authors
 
-`estabF_gram.csv`: Grammar-based measures higher for female authors
+`estabF_gram.csv`: Grammar-based measures higher for female authors (Table 3 in the article is an excerpt).
 
-`estabM_gram.csv`: Grammar-based measures higher for male authors
+`estabM_gram.csv`: Grammar-based measures higher for male authors (Table 4).
 
-`estabF_graph.csv`: Measures based on graphic words higher for female authors 
+`estabF_graph.csv`: Measures based on graphic words higher for female authors (Table 5).
 
-`estabM_graph.csv`: Measures based on graphic words higher for male authors 
+`estabM_graph.csv`: Measures based on graphic words higher for male authors (Table 6). 
 
 These files contain the following columns:
 
