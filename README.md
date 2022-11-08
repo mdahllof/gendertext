@@ -2,12 +2,7 @@
 
 **Mats Dahllöf, Uppsala University, 2022-11-11**
 
-`documentation.pdf`: Some further documentation on these Supplementary Materials.
-
 `fmcorp.csv`: A csv listing of the works in the corpus along with relevant metadata.
-
-`episodes_seasons.csv`: This file provides information about the episodes making up works published as a series of episodes. 
-(We concatenated all the episodes of each season into one document in this study.) 
 
 ## Tables over text property measures which were clearly associated with gender differences, i.e. met our size effect and significance criterion.
 
@@ -42,10 +37,5 @@ These files contain the following columns:
 `p_a`, `p_b`, `p_Cb`, and `p_Ob`: p values for cases as above. 
 
 `d_a`, `d_b,` `d_Cb`, and `d_Ob`: Cohen's d for cases as above. 
-
-`corpfeatvals.csv`: All the features, expressed as parts per million, for each book in the corpus, with some metadata
-overlapping with `dhnbcorp.csv`. Feature names as explained in the article.
-
-`datadescr.pdf`: A more detailed description of the content of this repository.
 
 
