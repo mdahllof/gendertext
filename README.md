@@ -4,7 +4,9 @@
 
 `fmcorp.csv`: A csv listing of the works in the corpus along with relevant metadata.
 
-## Tables over text property measures which were clearly associated with gender differences, i.e. met our size effect and significance criterion.
+## Tables over text properties clearly associated with gender
+
+Tables over text property measures which were clearly associated with gender differences, i.e. met our size effect and significance criterion.
 
 `estabF_bring.csv`: Thesaurus-based measures higher for female authors
 
