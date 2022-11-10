@@ -34,7 +34,11 @@ These files contain the following columns:
 
 `ps_Cb`: Probability of superiority when all crime books are compared. 	
 
-`ps_Ob`: Probability of superiority when all non-crime books are compared. 		
+`ps_Ob`: Probability of superiority when all non-crime books are compared. 
+
+`aMd0`: Median value per authors of the first gender in the comparison.	
+
+`aMd1`: Median value per authors of the second gender in the comparison.	
 
 `p_a`, `p_b`, `p_Cb`, and `p_Ob`: p values for cases as above. 
 
