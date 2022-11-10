@@ -51,6 +51,8 @@ Columns for measure and top 15 graph words with total weight.
 
 ## “Follow-up inspections”
 
+Read these as the `estabF_gram.csv` file. Numbers are reported from the female to male comparison point of view.
+
 `fu_number.csv`: for Section 4.1 on number in determiners, nouns, pronouns, adjectives, past participles.
 
 `fu_degree.csv`: for Section 4.1 on degree inflection in adjectives and adverbs.
