@@ -42,7 +42,7 @@ These files contain the following columns:
 
 ## Tables over graphic words behind grammatical and Bring class measures
 
-Tables over which graphic words generate most of the weight (added over the whole corpus) for the grammatical and Bring thesaurus class measures.
+Tables over which graphic words generated most of the weight (added over the whole corpus) for the grammatical and Bring thesaurus class measures.
 Columns for measure and top 15 graph words with total weight.
 
 `gram_graph.csv`: The graphic words behind the grammatical text propery measures.
