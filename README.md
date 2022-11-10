@@ -1,4 +1,4 @@
-# Supplementary Materials for the article draft "Author gender and text characteristics in contemporary Swedish fiction"
+# Supplementary Materials for the article draft “Author gender and text characteristics in contemporary Swedish fiction”
 
 **Mats Dahllöf, Uppsala University, 2022-11-11**
 
@@ -48,6 +48,15 @@ Columns for measure and top 15 graph words with total weight.
 `gram_graph.csv`: The graphic words behind the grammatical text propery measures.
 
 `bring_graph.csv`: The graphic words behind the Bring thesaurus class text propery measures.
+
+## “Follow-up inspections”
+
+`fu_number.csv`: for Section 4.1 on number in determiners, nouns, pronouns, adjectives, past participles.
+
+`fu_degree.csv`: for Section 4.1 on degree inflection in adjectives and adverbs.
+
+`fu_pronouns.csv`: Section 5 on same-gender gendered pronoun use.
+
 
 
 
