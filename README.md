@@ -36,7 +36,7 @@ These files contain the following columns:
 
 `ps_Ob`: Probability of superiority when all non-crime books are compared. 
 
-`aMd0`: Median value per authors of the first gender in the comparison.	
+`aMd0`: Median value per authors of the first gender in the comparison.	Relative frequency as parts per million.
 
 `aMd1`: Median value per authors of the second gender in the comparison.	
 
@@ -49,9 +49,9 @@ These files contain the following columns:
 Tables over which graphic words generated most of the weight (added over the whole corpus) for the grammatical and Bring thesaurus class measures.
 Columns for measure and top 15 graph words with total weight.
 
-`gram_graph.csv`: The graphic words behind the grammatical text propery measures.
+`graph_gram.csv`: The graphic words behind the grammatical text propery measures.
 
-`bring_graph.csv`: The graphic words behind the Bring thesaurus class text propery measures.
+`graph_bring.csv`: The graphic words behind the Bring thesaurus class text propery measures.
 
 ## “Follow-up inspections”
 
