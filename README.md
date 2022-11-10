@@ -8,17 +8,17 @@
 
 Tables over text property measures which were clearly associated with gender differences, i.e. met our size effect and significance criterion.
 
-`estabF_bring.csv`: Thesaurus-based measures higher for female authors
-
-`estabM_bring.csv`: Thesaurus-based measures higher for male authors
-
 `estabF_gram.csv`: Grammar-based measures higher for female authors (Table 3 in the article is an excerpt).
 
 `estabM_gram.csv`: Grammar-based measures higher for male authors (Table 4).
 
-`estabF_graph.csv`: Measures based on graphic words higher for female authors (Table 5).
+`estabF_bring.csv`: Thesaurus-based measures higher for female authors  (Table 5).
 
-`estabM_graph.csv`: Measures based on graphic words higher for male authors (Table 6). 
+`estabM_bring.csv`: Thesaurus-based measures higher for male authors  (Table 6).
+
+`estabF_graph.csv`: Measures based on graphic words higher for female authors (Table 7).
+
+`estabM_graph.csv`: Measures based on graphic words higher for male authors (Table 8). 
 
 These files contain the following columns:
 
@@ -39,5 +39,18 @@ These files contain the following columns:
 `p_a`, `p_b`, `p_Cb`, and `p_Ob`: p values for cases as above. 
 
 `d_a`, `d_b,` `d_Cb`, and `d_Ob`: Cohen's d for cases as above. 
+
+## Tables over graphic words behind grammatical and Bring class measures
+
+Tables over which graphic words generate most of the weight (added over the whole corpus) for the grammatical and Bring thesaurus class measures.
+Columns for measure and top 15 graph words with total weight.
+
+`gram_graph.csv`: The graphic words behind the grammatical text propery measures.
+
+`bring_graph.csv`: The graphic words behind the Bring thesaurus class text propery measures.
+
+
+
+
 
 
