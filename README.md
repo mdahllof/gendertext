@@ -61,7 +61,7 @@ Read these as the `estabF_gram.csv` file. Numbers are reported from the female t
 
 `fu_degree.csv`: for Section 4.1 on degree inflection in adjectives and adverbs.
 
-`fu_pronouns.csv`: Section 5 on same-gender gendered pronoun use.
+`fu_pronouns.csv`: for Section 5 on same-gender gendered pronoun use.
 
 
 
