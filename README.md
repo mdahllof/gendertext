@@ -10,15 +10,15 @@ Tables over text property measures which were clearly associated with gender dif
 
 [`estabF_gram.csv`](estabF_gram.csv): Grammar-based measures higher for female authors (Table 3 in the article is an excerpt).
 
-`estabM_gram.csv`: Grammar-based measures higher for male authors (Table 4).
+[`estabM_gram.csv`](estabM_gram.csv): Grammar-based measures higher for male authors (Table 4).
 
-`estabF_bring.csv`: Thesaurus-based measures higher for female authors  (Table 5).
+[`estabF_bring.csv`](estabF_bring.csv): Thesaurus-based measures higher for female authors (Table 5).
 
-`estabM_bring.csv`: Thesaurus-based measures higher for male authors  (Table 6).
+[`estabM_bring.csv`](estabM_bring.csv): Thesaurus-based measures higher for male authors (Table 6).
 
-`estabF_graph.csv`: Measures based on graphic words higher for female authors (Table 7).
+[`estabF_graph.csv`](estabF_graph.csv): Measures based on graphic words higher for female authors (Table 7).
 
-`estabM_graph.csv`: Measures based on graphic words higher for male authors (Table 8). 
+[`estabM_graph.csv`](estabM_graph.csv): Measures based on graphic words higher for male authors (Table 8). 
 
 These files contain the following columns:
 
@@ -49,19 +49,19 @@ These files contain the following columns:
 Tables over which graphic words generated most of the weight (added over the whole corpus) for the grammatical and Bring thesaurus class measures.
 Columns for measure and top 15 graph words with total weight.
 
-`graph_gram.csv`: The graphic words behind the grammatical text propery measures.
+[`graph_gram.csv`](graph_gram.csv): The graphic words behind the grammatical text propery measures.
 
-`graph_bring.csv`: The graphic words behind the Bring thesaurus class text propery measures.
+[`graph_bring.csv`](graph_bring.csv): The graphic words behind the Bring thesaurus class text propery measures.
 
 ## “Follow-up inspections”
 
 Read these as the `estabF_gram.csv` file. Numbers are reported from the female to male comparison point of view.
 
-`fu_number.csv`: for Section 4.1 on number in determiners, nouns, pronouns, adjectives, past participles.
+[`fu_number.csv`](fu_number.csv): for Section 4.1 on number in determiners, nouns, pronouns, adjectives, past participles.
 
-`fu_degree.csv`: for Section 4.1 on degree inflection in adjectives and adverbs.
+[`fu_degree.csv`](fu_degree.csv): for Section 4.1 on degree inflection in adjectives and adverbs.
 
-`fu_pronouns.csv`: for Section 5 on same-gender gendered pronoun use.
+[`fu_pronouns.csv`](fu_pronouns.csv): for Section 5 on same-gender gendered pronoun use.
 
 
 
