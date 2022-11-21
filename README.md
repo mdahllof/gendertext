@@ -8,7 +8,7 @@
 
 Tables over text property measures which were clearly associated with gender differences, i.e. met our size effect and significance criterion.
 
-`estabF_gram.csv`: Grammar-based measures higher for female authors (Table 3 in the article is an excerpt).
+[`estabF_gram.csv`](estabF_gram.csv): Grammar-based measures higher for female authors (Table 3 in the article is an excerpt).
 
 `estabM_gram.csv`: Grammar-based measures higher for male authors (Table 4).
 
